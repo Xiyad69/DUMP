@@ -1,0 +1,8 @@
+
+
+cd DUMP
+git colon https://github.com/Xiyad69/DUMP.git
+
+git pull 
+
+python FILE.py
