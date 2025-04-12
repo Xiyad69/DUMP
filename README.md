@@ -6,4 +6,4 @@ cd DUMP
 
 git pull
 
-python FILE.py
+python Filex.py
